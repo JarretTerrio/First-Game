@@ -1,0 +1,3051 @@
+fileFormatVersion: 2
+guid: 21e5dde7035254f2382ade04a26e061f
+timeCreated: 1468457150
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: game-tiles-space@2x_0
+    21300002: game-tiles-space@2x_1
+    21300004: game-tiles-space@2x_2
+    21300006: game-tiles-space@2x_3
+    21300008: game-tiles-space@2x_4
+    21300010: game-tiles-space@2x_5
+    21300012: game-tiles-space@2x_6
+    21300014: game-tiles-space@2x_7
+    21300016: game-tiles-space@2x_8
+    21300018: game-tiles-space@2x_9
+    21300020: game-tiles-space@2x_10
+    21300022: game-tiles-space@2x_11
+    21300024: game-tiles-space@2x_12
+    21300026: game-tiles-space@2x_13
+    21300028: game-tiles-space@2x_14
+    21300030: game-tiles-space@2x_15
+    21300032: game-tiles-space@2x_16
+    21300034: game-tiles-space@2x_17
+    21300036: game-tiles-space@2x_18
+    21300038: game-tiles-space@2x_19
+    21300040: game-tiles-space@2x_20
+    21300042: game-tiles-space@2x_21
+    21300044: game-tiles-space@2x_22
+    21300046: game-tiles-space@2x_23
+    21300048: game-tiles-space@2x_24
+    21300050: game-tiles-space@2x_25
+    21300052: game-tiles-space@2x_26
+    21300054: game-tiles-space@2x_27
+    21300056: game-tiles-space@2x_28
+    21300058: game-tiles-space@2x_29
+    21300060: game-tiles-space@2x_30
+    21300062: game-tiles-space@2x_31
+    21300064: game-tiles-space@2x_32
+    21300066: game-tiles-space@2x_33
+    21300068: game-tiles-space@2x_34
+    21300070: game-tiles-space@2x_35
+    21300072: game-tiles-space@2x_36
+    21300074: game-tiles-space@2x_37
+    21300076: game-tiles-space@2x_38
+    21300078: game-tiles-space@2x_39
+    21300080: game-tiles-space@2x_40
+    21300082: game-tiles-space@2x_41
+    21300084: game-tiles-space@2x_42
+    21300086: game-tiles-space@2x_43
+    21300088: game-tiles-space@2x_44
+    21300090: game-tiles-space@2x_45
+    21300092: game-tiles-space@2x_46
+    21300094: game-tiles-space@2x_49
+    21300096: game-tiles-space@2x_50
+    21300098: game-tiles-space@2x_51
+    21300100: game-tiles-space@2x_52
+    21300102: game-tiles-space@2x_53
+    21300104: game-tiles-space@2x_54
+    21300106: game-tiles-space@2x_55
+    21300108: game-tiles-space@2x_56
+    21300110: game-tiles-space@2x_57
+    21300112: game-tiles-space@2x_58
+    21300114: game-tiles-space@2x_59
+    21300116: game-tiles-space@2x_62
+    21300118: game-tiles-space@2x_63
+    21300120: game-tiles-space@2x_64
+    21300122: game-tiles-space@2x_65
+    21300124: game-tiles-space@2x_66
+    21300126: game-tiles-space@2x_67
+    21300128: game-tiles-space@2x_68
+    21300130: game-tiles-space@2x_69
+    21300132: game-tiles-space@2x_70
+    21300134: game-tiles-space@2x_71
+    21300136: game-tiles-space@2x_72
+    21300138: game-tiles-space@2x_78
+    21300140: game-tiles-space@2x_79
+    21300142: game-tiles-space@2x_80
+    21300144: game-tiles-space@2x_81
+    21300146: game-tiles-space@2x_82
+    21300148: game-tiles-space@2x_83
+    21300150: game-tiles-space@2x_84
+    21300152: game-tiles-space@2x_85
+    21300154: game-tiles-space@2x_86
+    21300156: game-tiles-space@2x_87
+    21300158: game-tiles-space@2x_88
+    21300160: game-tiles-space@2x_89
+    21300162: game-tiles-space@2x_90
+    21300164: game-tiles-space@2x_91
+    21300166: game-tiles-space@2x_92
+    21300168: game-tiles-space@2x_93
+    21300170: game-tiles-space@2x_94
+    21300172: game-tiles-space@2x_95
+    21300174: game-tiles-space@2x_96
+    21300176: game-tiles-space@2x_97
+    21300178: game-tiles-space@2x_98
+    21300180: game-tiles-space@2x_99
+    21300182: game-tiles-space@2x_102
+    21300184: game-tiles-space@2x_103
+    21300186: game-tiles-space@2x_104
+    21300188: game-tiles-space@2x_105
+    21300190: game-tiles-space@2x_106
+    21300192: game-tiles-space@2x_107
+    21300194: game-tiles-space@2x_108
+    21300196: game-tiles-space@2x_109
+    21300198: game-tiles-space@2x_110
+    21300200: game-tiles-space@2x_111
+    21300202: game-tiles-space@2x_112
+    21300204: game-tiles-space@2x_113
+    21300206: game-tiles-space@2x_114
+    21300208: game-tiles-space@2x_115
+    21300210: game-tiles-space@2x_116
+    21300212: game-tiles-space@2x_117
+    21300214: game-tiles-space@2x_118
+    21300216: game-tiles-space@2x_119
+    21300218: game-tiles-space@2x_120
+    21300220: game-tiles-space@2x_121
+    21300222: game-tiles-space@2x_122
+    21300224: game-tiles-space@2x_123
+    21300226: game-tiles-space@2x_124
+    21300228: game-tiles-space@2x_125
+    21300230: game-tiles-space@2x_126
+    21300232: game-tiles-space@2x_127
+    21300234: game-tiles-space@2x_128
+    21300236: game-tiles-space@2x_129
+    21300238: game-tiles-space@2x_130
+    21300240: game-tiles-space@2x_131
+    21300242: game-tiles-space@2x_132
+    21300244: game-tiles-space@2x_133
+    21300246: game-tiles-space@2x_134
+    21300248: game-tiles-space@2x_135
+    21300250: game-tiles-space@2x_136
+    21300252: game-tiles-space@2x_137
+    21300254: game-tiles-space@2x_138
+    21300256: game-tiles-space@2x_139
+    21300258: game-tiles-space@2x_140
+    21300260: game-tiles-space@2x_141
+    21300262: game-tiles-space@2x_142
+    21300264: game-tiles-space@2x_143
+    21300266: game-tiles-space@2x_144
+    21300268: game-tiles-space@2x_145
+    21300270: game-tiles-space@2x_146
+    21300272: game-tiles-space@2x_147
+    21300274: game-tiles-space@2x_148
+    21300276: game-tiles-space@2x_149
+    21300278: game-tiles-space@2x_150
+    21300280: game-tiles-space@2x_151
+    21300282: game-tiles-space@2x_152
+    21300284: game-tiles-space@2x_153
+    21300286: game-tiles-space@2x_154
+    21300288: game-tiles-space@2x_155
+    21300290: game-tiles-space@2x_156
+    21300292: game-tiles-space@2x_157
+    21300294: game-tiles-space@2x_158
+    21300296: game-tiles-space@2x_159
+    21300298: game-tiles-space@2x_160
+    21300300: game-tiles-space@2x_161
+    21300302: game-tiles-space@2x_162
+    21300304: game-tiles-space@2x_163
+    21300306: game-tiles-space@2x_164
+    21300308: game-tiles-space@2x_165
+    21300310: game-tiles-space@2x_166
+    21300312: game-tiles-space@2x_167
+    21300314: game-tiles-space@2x_168
+    21300316: game-tiles-space@2x_169
+    21300318: game-tiles-space@2x_170
+    21300320: game-tiles-space@2x_171
+    21300322: game-tiles-space@2x_172
+    21300324: game-tiles-space@2x_173
+    21300326: game-tiles-space@2x_174
+    21300328: game-tiles-space@2x_175
+    21300330: game-tiles-space@2x_176
+    21300332: game-tiles-space@2x_177
+    21300334: game-tiles-space@2x_178
+    21300336: game-tiles-space@2x_179
+    21300338: game-tiles-space@2x_180
+    21300340: game-tiles-space@2x_181
+    21300342: game-tiles-space@2x_182
+    21300344: game-tiles-space@2x_183
+    21300346: game-tiles-space@2x_184
+    21300348: game-tiles-space@2x_185
+    21300350: game-tiles-space@2x_186
+    21300352: game-tiles-space@2x_187
+    21300354: game-tiles-space@2x_188
+    21300356: game-tiles-space@2x_189
+    21300358: game-tiles-space@2x_190
+    21300360: game-tiles-space@2x_191
+    21300362: game-tiles-space@2x_192
+    21300364: game-tiles-space@2x_193
+    21300366: game-tiles-space@2x_194
+    21300368: game-tiles-space@2x_195
+    21300370: game-tiles-space@2x_196
+    21300372: game-tiles-space@2x_197
+    21300374: game-tiles-space@2x_198
+    21300376: game-tiles-space@2x_199
+    21300378: game-tiles-space@2x_200
+    21300380: game-tiles-space@2x_201
+    21300382: game-tiles-space@2x_47
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: game-tiles-space@2x_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 991
+        width: 114
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 844
+        width: 119
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37.5, y: 25}
+        - {x: 33.5, y: 21}
+        - {x: 44.5, y: 46}
+        - {x: 46.5, y: 53}
+        - {x: 42.5, y: 88}
+        - {x: -45.5, y: 88}
+        - {x: -56.5, y: 41}
+        - {x: -59.5, y: 19}
+        - {x: -59.5, y: -61}
+        - {x: -30.5, y: -88}
+        - {x: 55.5, y: -88}
+        - {x: 59.5, y: -71}
+        - {x: 59.5, y: 24}
+      - - {x: 34.5, y: -57}
+        - {x: 36.5, y: -59}
+        - {x: 39.5, y: -58}
+        - {x: 39.5, y: -51}
+        - {x: 37.5, y: -49}
+        - {x: 34.5, y: -50}
+    - name: game-tiles-space@2x_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 934
+        width: 154
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77, y: 44.5}
+        - {x: -77, y: -16.5}
+        - {x: -64, y: -44.5}
+        - {x: 38, y: -44.5}
+        - {x: 76, y: -4.5}
+        - {x: 77, y: -2.5}
+        - {x: 77, y: 44.5}
+    - name: game-tiles-space@2x_3
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 934
+        width: 159
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 79.5, y: 31}
+        - {x: 38.5, y: 44}
+        - {x: -17.5, y: 44}
+        - {x: -79.5, y: 27}
+        - {x: -79.5, y: 1}
+        - {x: -74.5, y: -11}
+        - {x: -37.5, y: -21}
+        - {x: -30.5, y: -44}
+        - {x: 32.5, y: -44}
+        - {x: 53.5, y: -22}
+        - {x: 79.5, y: 7}
+    - name: game-tiles-space@2x_4
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 911
+        width: 159
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59.5, y: -54}
+        - {x: -59.5, y: -56}
+        - {x: -53.5, y: -56}
+        - {x: -53.5, y: -54}
+        - {x: -55.5, y: -52}
+        - {x: -57.5, y: -52}
+      - - {x: 22.5, y: -39}
+        - {x: 14.5, y: -42}
+        - {x: 8.5, y: -50}
+        - {x: 8.5, y: -56}
+        - {x: 36.5, y: -56}
+        - {x: 36.5, y: -52}
+        - {x: 29.5, y: -39}
+      - - {x: -68.5, y: -47}
+        - {x: -69.5, y: -49}
+        - {x: -69.5, y: -52}
+        - {x: -67.5, y: -53}
+        - {x: -64.5, y: -53}
+        - {x: -63.5, y: -52}
+        - {x: -63.5, y: -47}
+      - - {x: 47.5, y: 56}
+        - {x: -38.5, y: 56}
+        - {x: -61.5, y: 50}
+        - {x: -79.5, y: 31}
+        - {x: -79.5, y: 6}
+        - {x: -56.5, y: -26}
+        - {x: -35.5, y: -35}
+        - {x: 40.5, y: -35}
+        - {x: 79.5, y: 0}
+        - {x: 79.5, y: 26}
+        - {x: 70.5, y: 45}
+    - name: game-tiles-space@2x_5
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 934
+        width: 158
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 79, y: -18}
+        - {x: 79, y: 0}
+        - {x: 44, y: 36}
+        - {x: 26, y: 44}
+        - {x: -37, y: 44}
+        - {x: -79, y: 4}
+        - {x: -79, y: -17}
+        - {x: -62, y: -44}
+        - {x: 29, y: -44}
+        - {x: 27, y: -38}
+        - {x: 22, y: -33}
+        - {x: 52, y: -32}
+    - name: game-tiles-space@2x_6
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 933
+        width: 65
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: 32}
+        - {x: 6.5, y: 28}
+        - {x: 8.5, y: 26}
+        - {x: -1.5, y: 13}
+        - {x: -15.5, y: -7}
+        - {x: -32.5, y: -32}
+        - {x: -32.5, y: -44}
+        - {x: -25.5, y: -44}
+        - {x: 32.5, y: -3}
+        - {x: 32.5, y: 44}
+        - {x: 23.5, y: 44}
+        - {x: 15.5, y: 42}
+    - name: game-tiles-space@2x_7
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 912
+        width: 166
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: -53}
+        - {x: 5, y: -54}
+        - {x: 83, y: -54}
+        - {x: 83, y: -3}
+        - {x: 74, y: 33}
+        - {x: 63, y: 54}
+        - {x: -71, y: 54}
+        - {x: -80, y: 40}
+        - {x: -82, y: 27}
+        - {x: -83, y: 14}
+        - {x: -83, y: -54}
+        - {x: -2, y: -54}
+        - {x: -2, y: -49}
+        - {x: -5, y: -42}
+    - name: game-tiles-space@2x_8
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 617
+        width: 38
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 203}
+        - {x: -19, y: 152}
+        - {x: -19, y: -131}
+        - {x: 1, y: -203}
+        - {x: 19, y: -203}
+        - {x: 19, y: 203}
+    - name: game-tiles-space@2x_9
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 617
+        width: 39
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 203}
+        - {x: -19.5, y: -203}
+        - {x: -10.5, y: -203}
+        - {x: 19.5, y: -161}
+        - {x: 19.5, y: 168}
+        - {x: -7.5, y: 203}
+    - name: game-tiles-space@2x_10
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 664
+        width: 39
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 179}
+        - {x: -19.5, y: 179}
+        - {x: -19.5, y: -179}
+        - {x: -4.5, y: -179}
+        - {x: 19.5, y: -105}
+        - {x: 19.5, y: 98}
+        - {x: 13.5, y: 133}
+    - name: game-tiles-space@2x_11
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 660
+        width: 36
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 102.5}
+        - {x: -2, y: 181.5}
+        - {x: -18, y: 181.5}
+        - {x: -18, y: -181.5}
+        - {x: -12, y: -181.5}
+        - {x: -2, y: -167.5}
+        - {x: 17, y: -108.5}
+        - {x: 18, y: -100.5}
+    - name: game-tiles-space@2x_12
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 737
+        width: 30
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 956
+        width: 114
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 919
+        width: 114
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_15
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 842
+        width: 154
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: 45}
+        - {x: -20, y: 45}
+        - {x: -77, y: 13}
+        - {x: -77, y: -34}
+        - {x: -39, y: -45}
+        - {x: 61, y: -45}
+        - {x: 75, y: -33}
+        - {x: 77, y: -31}
+        - {x: 77, y: 9}
+    - name: game-tiles-space@2x_16
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 791
+        width: 144
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -60}
+        - {x: -37, y: -60}
+        - {x: -39, y: -63}
+        - {x: -39, y: -65}
+        - {x: -37, y: -67}
+        - {x: -33, y: -67}
+        - {x: -31, y: -65}
+        - {x: -31, y: -62}
+      - - {x: 64, y: -50}
+        - {x: 72, y: -39}
+        - {x: 72, y: 45}
+        - {x: 53, y: 67}
+        - {x: 19, y: 67}
+        - {x: 20, y: 64}
+        - {x: 23, y: 61}
+        - {x: 20, y: 64}
+        - {x: 16, y: 67}
+        - {x: -17, y: 67}
+        - {x: -26, y: 63}
+        - {x: -43, y: 49}
+        - {x: -48, y: 42}
+        - {x: -51, y: 51}
+        - {x: -60, y: 50}
+        - {x: -72, y: 40}
+        - {x: -72, y: -14}
+        - {x: -68, y: -20}
+        - {x: -61, y: -26}
+        - {x: -55, y: -46}
+        - {x: -48, y: -48}
+        - {x: -45, y: -45}
+        - {x: -47, y: -48}
+        - {x: -57, y: -52}
+        - {x: -40, y: -67}
+        - {x: 5, y: -67}
+        - {x: 5, y: -64}
+        - {x: 4, y: -61}
+        - {x: 35, y: -64}
+      - - {x: 5, y: -67}
+        - {x: 10, y: -67}
+        - {x: 10, y: -65}
+        - {x: 8, y: -63}
+        - {x: 5, y: -64}
+      - - {x: 13, y: -58}
+        - {x: 12, y: -63}
+        - {x: 12, y: -67}
+        - {x: 20, y: -67}
+        - {x: 25, y: -64}
+        - {x: 25, y: -58}
+      - - {x: -47, y: -58}
+        - {x: -50, y: -61}
+        - {x: -50, y: -63}
+        - {x: -47, y: -66}
+        - {x: -46, y: -66}
+        - {x: -43, y: -63}
+        - {x: -43, y: -61}
+        - {x: -46, y: -58}
+      - - {x: 39, y: -53}
+        - {x: 35, y: -58}
+        - {x: 35, y: -60}
+        - {x: 38, y: -63}
+        - {x: 41, y: -62}
+        - {x: 44, y: -56}
+        - {x: 44, y: -55}
+        - {x: 42, y: -53}
+      - - {x: -53, y: -43}
+        - {x: -57, y: -43}
+        - {x: -59, y: -45}
+        - {x: -58, y: -54}
+        - {x: -54, y: -56}
+        - {x: -51, y: -56}
+        - {x: -50, y: -53}
+        - {x: -50, y: -47}
+      - - {x: 64, y: -29}
+        - {x: 62, y: -29}
+        - {x: 59, y: -32}
+        - {x: 59, y: -41}
+        - {x: 61, y: -42}
+        - {x: 65, y: -42}
+        - {x: 68, y: -39}
+        - {x: 68, y: -35}
+        - {x: 66, y: -30}
+      - - {x: -68, y: -30}
+        - {x: -68, y: -33}
+        - {x: -67, y: -36}
+        - {x: -62, y: -36}
+        - {x: -58, y: -31}
+        - {x: -58, y: -26}
+        - {x: -60, y: -25}
+        - {x: -62, y: -25}
+        - {x: -67, y: -29}
+      - - {x: -64, y: -22}
+        - {x: -69, y: -22}
+        - {x: -69, y: -27}
+        - {x: -67, y: -28}
+        - {x: -64, y: -28}
+        - {x: -63, y: -26}
+        - {x: -63, y: -23}
+      - - {x: -72, y: -8}
+        - {x: -72, y: -15}
+        - {x: -69, y: -15}
+        - {x: -67, y: -14}
+        - {x: -67, y: -9}
+        - {x: -68, y: -8}
+      - - {x: 61, y: 46}
+        - {x: 64, y: 47}
+        - {x: 64, y: 50}
+        - {x: 61, y: 51}
+        - {x: 59, y: 49}
+      - - {x: -58, y: 56}
+        - {x: -58, y: 51}
+        - {x: -57, y: 50}
+        - {x: -52, y: 50}
+        - {x: -52, y: 56}
+      - - {x: -49, y: 61}
+        - {x: -51, y: 57}
+        - {x: -51, y: 55}
+        - {x: -48, y: 53}
+        - {x: -46, y: 53}
+        - {x: -43, y: 54}
+        - {x: -43, y: 61}
+    - name: game-tiles-space@2x_17
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 875
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_18
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 864
+        width: 125
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.5, y: 32.5}
+        - {x: -62.5, y: 32.5}
+        - {x: -62.5, y: 27.5}
+        - {x: -13.5, y: -4.5}
+        - {x: 48.5, y: -32.5}
+        - {x: 62.5, y: -32.5}
+        - {x: 62.5, y: -28.5}
+        - {x: 42.5, y: -15.5}
+    - name: game-tiles-space@2x_19
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 883
+        width: 114
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_20
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 890
+        width: 74
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_21
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 800
+        width: 166
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: -53}
+        - {x: 5, y: -54}
+        - {x: 83, y: -54}
+        - {x: 83, y: -3}
+        - {x: 74, y: 33}
+        - {x: 63, y: 54}
+        - {x: -71, y: 54}
+        - {x: -80, y: 40}
+        - {x: -82, y: 27}
+        - {x: -83, y: 14}
+        - {x: -83, y: -54}
+        - {x: -2, y: -54}
+        - {x: -2, y: -49}
+        - {x: -5, y: -42}
+    - name: game-tiles-space@2x_22
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 848
+        width: 110
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_23
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 866
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_24
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 845
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_25
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 843
+        width: 55
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_26
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 845
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_27
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 846
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_28
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 845
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_29
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 845
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_30
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 614
+        width: 158
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73, y: 43}
+        - {x: 79, y: 47}
+        - {x: 79, y: 98}
+        - {x: 72, y: 122}
+        - {x: -60, y: 122}
+        - {x: -79, y: 97}
+        - {x: -79, y: -87}
+        - {x: -78, y: -120}
+        - {x: -69, y: -122}
+        - {x: 79, y: -122}
+        - {x: 79, y: -75}
+        - {x: 40, y: 55}
+    - name: game-tiles-space@2x_31
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 804
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: 16}
+        - {x: 5.5, y: 12}
+        - {x: 5.5, y: 14}
+        - {x: 2.5, y: 16}
+        - {x: -12.5, y: 16}
+        - {x: -22.5, y: 10}
+        - {x: -22.5, y: -10}
+        - {x: -12.5, y: -16}
+        - {x: 22.5, y: -16}
+        - {x: 22.5, y: 16}
+    - name: game-tiles-space@2x_32
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 810
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_33
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 831
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_34
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 823
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_35
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 660
+        width: 118
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 86}
+        - {x: -59, y: 80}
+        - {x: -59, y: -40}
+        - {x: -44, y: -86}
+        - {x: 46, y: -86}
+        - {x: 59, y: -50}
+        - {x: 59, y: 63}
+        - {x: 50, y: 86}
+    - name: game-tiles-space@2x_36
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 800
+        width: 74
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: -18}
+        - {x: 37, y: -18}
+        - {x: 37, y: 8}
+        - {x: 34, y: 16}
+        - {x: 26, y: 18}
+        - {x: -28, y: 18}
+        - {x: -37, y: 10}
+    - name: game-tiles-space@2x_37
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 787
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_38
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 801
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_39
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 800
+        width: 73
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_40
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 803
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_41
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 792
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_42
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 792
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_43
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 792
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_44
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 739
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 27.5}
+        - {x: -17, y: 26.5}
+        - {x: -17, y: -27.5}
+        - {x: 16, y: -27.5}
+        - {x: 17, y: -25.5}
+        - {x: 17, y: 27.5}
+    - name: game-tiles-space@2x_45
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 468
+        width: 57
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 164.5}
+        - {x: -28.5, y: -164.5}
+        - {x: -0.5, y: -164.5}
+        - {x: 28.5, y: -105.5}
+        - {x: 28.5, y: 94.5}
+        - {x: -14.5, y: 164.5}
+    - name: game-tiles-space@2x_46
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 734
+        width: 117
+        height: 49
+      alignment: 9
+      pivot: {x: -6.6889877, y: 1.19597}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 875.6116, y: -46.60254}
+        - {x: 878.6116, y: -36.60254}
+        - {x: 878.6116, y: -9.602539}
+        - {x: 789.6116, y: -9.602539}
+        - {x: 782.6116, y: -25.60254}
+        - {x: 782.6116, y: -45.60254}
+        - {x: 794.6116, y: -52.60254}
+        - {x: 806.6116, y: -56.60254}
+        - {x: 826.6116, y: -56.60254}
+        - {x: 833.6116, y: -54.60254}
+        - {x: 829.6116, y: -41.60254}
+        - {x: 822.6116, y: -36.60254}
+        - {x: 839.6116, y: -45.60254}
+      - - {x: 882.6116, y: -15.602539}
+        - {x: 878.6116, y: -21.60254}
+        - {x: 878.6116, y: -24.60254}
+        - {x: 882.6116, y: -30.60254}
+        - {x: 881.6116, y: -29.60254}
+        - {x: 876.6116, y: -28.60254}
+        - {x: 866.6116, y: -31.60254}
+        - {x: 856.6116, y: -39.60254}
+        - {x: 856.6116, y: -49.60254}
+        - {x: 859.6116, y: -56.60254}
+        - {x: 887.6116, y: -56.60254}
+        - {x: 895.6116, y: -43.60254}
+        - {x: 895.6116, y: -20.60254}
+        - {x: 888.6116, y: -15.602539}
+    - name: game-tiles-space@2x_49
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 746
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_50
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 746
+        width: 4
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_51
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 746
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_52
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 746
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_53
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 746
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_54
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 746
+        width: 13
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_55
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 746
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_56
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 767
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_57
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 745
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_58
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 745
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_59
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 463
+        width: 79
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 164}
+        - {x: -39.5, y: 91}
+        - {x: -39.5, y: -107}
+        - {x: 16.5, y: -164}
+        - {x: 39.5, y: -164}
+        - {x: 39.5, y: 164}
+    - name: game-tiles-space@2x_62
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 746
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_63
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 746
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_64
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 746
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_65
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 746
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_66
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 746
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_67
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 746
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_68
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 746
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_69
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 744
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_70
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 744
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_71
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 745
+        width: 4
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_72
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 734
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_78
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 692
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_79
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 692
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_80
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 692
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_81
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 692
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_82
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 692
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_83
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 692
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_84
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 692
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_85
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 692
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_86
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 692
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_87
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 692
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_88
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 691
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_89
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 692
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_90
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 692
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_91
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 692
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_92
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 692
+        width: 14
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_93
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 692
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_94
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 692
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_95
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 691
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_96
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 692
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_97
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 692
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_98
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 691
+        width: 14
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_99
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 699
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_102
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 645
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_103
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 646
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_104
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 651
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_105
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 652
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_106
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 661
+        width: 61
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_107
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 586
+        width: 97
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48.5, y: 49}
+        - {x: -48.5, y: 49}
+        - {x: -48.5, y: -4}
+        - {x: -39.5, y: -49}
+        - {x: 48.5, y: -49}
+    - name: game-tiles-space@2x_108
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 626
+        width: 114
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_109
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 653
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_110
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 635
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_111
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 627
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_112
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 641
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_113
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 642
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_114
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 649
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_115
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 555
+        width: 70
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 47}
+        - {x: -35, y: -47}
+        - {x: 35, y: -47}
+        - {x: 35, y: 35}
+        - {x: 23, y: 47}
+    - name: game-tiles-space@2x_116
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 555
+        width: 70
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 47}
+        - {x: -35, y: 18}
+        - {x: -35, y: -47}
+        - {x: 35, y: -47}
+        - {x: 35, y: 47}
+    - name: game-tiles-space@2x_117
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 621
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_118
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 634
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_119
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 589
+        width: 114
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_120
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 502
+        width: 162
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 62, y: 29}
+        - {x: 48, y: 41}
+        - {x: 39, y: 54}
+        - {x: -45, y: 54}
+        - {x: -52, y: 46}
+        - {x: -54, y: 41}
+        - {x: -81, y: 32}
+        - {x: -81, y: -19}
+        - {x: -73, y: -54}
+        - {x: 81, y: -54}
+        - {x: 81, y: 29}
+        - {x: 75, y: 33}
+    - name: game-tiles-space@2x_121
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 584
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_122
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 584
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_123
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 584
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_124
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 584
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_125
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 584
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_126
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 573
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_127
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 573
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_128
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 370
+        width: 158
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 79, y: 44.5}
+        - {x: 79, y: 113.5}
+        - {x: 70, y: 119.5}
+        - {x: -62, y: 119.5}
+        - {x: -79, y: 101.5}
+        - {x: -79, y: -119.5}
+        - {x: 73, y: -119.5}
+        - {x: 79, y: -114.5}
+        - {x: 79, y: 12.5}
+        - {x: 74, y: 38.5}
+    - name: game-tiles-space@2x_129
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 306
+        width: 53
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: 153.5}
+        - {x: -26.5, y: 77.5}
+        - {x: -26.5, y: -77.5}
+        - {x: -10.5, y: -150.5}
+        - {x: -9.5, y: -153.5}
+        - {x: 26.5, y: -153.5}
+        - {x: 26.5, y: 153.5}
+    - name: game-tiles-space@2x_130
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 305
+        width: 64
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 154}
+        - {x: -32, y: -154}
+        - {x: -15, y: -154}
+        - {x: 32, y: -86}
+        - {x: 32, y: 65}
+        - {x: 9, y: 154}
+    - name: game-tiles-space@2x_131
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 555
+        width: 114
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_132
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 547
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_133
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 547
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_134
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 547
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_135
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 547
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_136
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 571
+        width: 108
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_137
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 560
+        width: 108
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_138
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 519
+        width: 114
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_139
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 430
+        width: 161
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.5, y: 54}
+        - {x: -52.5, y: 41}
+        - {x: -51.5, y: 37}
+        - {x: -80.5, y: 38}
+        - {x: -80.5, y: -54}
+        - {x: 80.5, y: -54}
+        - {x: 80.5, y: 38}
+        - {x: 54.5, y: 54}
+    - name: game-tiles-space@2x_140
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 510
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_141
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 514
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 19}
+        - {x: -24.5, y: 7}
+        - {x: -24.5, y: -19}
+        - {x: 24.5, y: -19}
+        - {x: 24.5, y: 13}
+        - {x: 11.5, y: 19}
+    - name: game-tiles-space@2x_142
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 481
+        width: 114
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_143
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 419
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 37}
+        - {x: -45, y: 37}
+        - {x: -45, y: -33}
+        - {x: -44, y: -37}
+        - {x: 37, y: -37}
+        - {x: 37, y: -36}
+        - {x: 45, y: -13}
+        - {x: 45, y: 21}
+        - {x: 40, y: 30}
+    - name: game-tiles-space@2x_144
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 422
+        width: 46
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 37}
+        - {x: -23, y: 31}
+        - {x: -23, y: -37}
+        - {x: 23, y: -37}
+        - {x: 23, y: 25}
+        - {x: 17, y: 37}
+    - name: game-tiles-space@2x_145
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 364
+        width: 88
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 64.5}
+        - {x: -44, y: -61.5}
+        - {x: -29, y: -64.5}
+        - {x: 26, y: -64.5}
+        - {x: 44, y: -55.5}
+        - {x: 44, y: 64.5}
+    - name: game-tiles-space@2x_146
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 336
+        width: 126
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: 87}
+        - {x: -59, y: 87}
+        - {x: -63, y: 80}
+        - {x: -63, y: 48}
+        - {x: -15, y: -28}
+        - {x: 42, y: -87}
+        - {x: 63, y: -87}
+        - {x: 63, y: -75}
+        - {x: -35, y: 71}
+    - name: game-tiles-space@2x_147
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 441
+        width: 115
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: 18}
+        - {x: -46.5, y: 17}
+        - {x: -57.5, y: 6}
+        - {x: -57.5, y: -10}
+        - {x: -46.5, y: -18}
+        - {x: 43.5, y: -18}
+        - {x: 57.5, y: -7}
+        - {x: 57.5, y: 10}
+        - {x: 54.5, y: 18}
+    - name: game-tiles-space@2x_148
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 387
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 25.5}
+        - {x: -30.5, y: 20.5}
+        - {x: -30.5, y: -12.5}
+        - {x: -8.5, y: -25.5}
+        - {x: 20.5, y: -25.5}
+        - {x: 30.5, y: -20.5}
+        - {x: 30.5, y: 19.5}
+        - {x: 24.5, y: 25.5}
+    - name: game-tiles-space@2x_149
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 389
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: -20.5}
+        - {x: 27.5, y: -16.5}
+        - {x: 30.5, y: -4.5}
+        - {x: 30.5, y: 16.5}
+        - {x: 29.5, y: 17.5}
+        - {x: 2.5, y: 23.5}
+        - {x: -30.5, y: 23.5}
+        - {x: -30.5, y: -20.5}
+        - {x: -24.5, y: -20.5}
+        - {x: -18.5, y: -16.5}
+        - {x: -12.5, y: -23.5}
+        - {x: 1.5, y: -23.5}
+        - {x: 3.5, y: -20.5}
+        - {x: 3.5, y: -13.5}
+        - {x: 0.5, y: -8.5}
+    - name: game-tiles-space@2x_150
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 310
+        width: 163
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.5, y: 54}
+        - {x: -53.5, y: 47}
+        - {x: -54.5, y: 41}
+        - {x: -53.5, y: 37}
+        - {x: -58.5, y: 46}
+        - {x: -76.5, y: 47}
+        - {x: -81.5, y: 40}
+        - {x: -81.5, y: 13}
+        - {x: -70.5, y: 7}
+        - {x: -76.5, y: -30}
+        - {x: -73.5, y: -54}
+        - {x: 81.5, y: -54}
+        - {x: 81.5, y: 45}
+        - {x: 58.5, y: 54}
+    - name: game-tiles-space@2x_151
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 344
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_152
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 328
+        width: 94
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39, y: 20}
+        - {x: 33, y: 20}
+        - {x: 15, y: 19}
+        - {x: 8, y: 14}
+        - {x: 4, y: 6}
+        - {x: 0, y: 4}
+        - {x: 1, y: 5}
+        - {x: 3, y: 6}
+        - {x: 10, y: 19}
+        - {x: 9, y: 22}
+        - {x: -47, y: 22}
+        - {x: -47, y: 12}
+        - {x: -43, y: 8}
+        - {x: -45, y: 8}
+        - {x: -47, y: 7}
+        - {x: -47, y: -4}
+        - {x: -26, y: -8}
+        - {x: -22, y: -5}
+        - {x: -25, y: -9}
+        - {x: -34, y: -7}
+        - {x: -40, y: -7}
+        - {x: -47, y: -14}
+        - {x: -47, y: -17}
+        - {x: -39, y: -22}
+        - {x: 43, y: -22}
+        - {x: 47, y: -19}
+        - {x: 47, y: 10}
+        - {x: 45, y: 18}
+    - name: game-tiles-space@2x_153
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 353
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_154
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 290
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_155
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 291
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_156
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 291
+        width: 12
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_157
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 291
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_158
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 301
+        width: 8
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_159
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 291
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_160
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 321
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_161
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 293
+        width: 14
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_162
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 293
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_163
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 294
+        width: 14
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_164
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 304
+        width: 8
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_165
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 123
+        width: 173
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 77.5, y: 102.5}
+        - {x: -86.5, y: -11.5}
+        - {x: -86.5, y: -53.5}
+        - {x: -73.5, y: -74.5}
+        - {x: 79.5, y: -102.5}
+        - {x: 86.5, y: -102.5}
+        - {x: 86.5, y: 102.5}
+    - name: game-tiles-space@2x_166
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 220
+        width: 18
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_167
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 251
+        width: 19
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_168
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 225
+        width: 19
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_169
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 190
+        width: 163
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74.5, y: 54}
+        - {x: -81.5, y: 42}
+        - {x: -81.5, y: -39}
+        - {x: -74.5, y: -54}
+        - {x: 81.5, y: -54}
+        - {x: 81.5, y: 35}
+        - {x: 61.5, y: 54}
+    - name: game-tiles-space@2x_170
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 190
+        width: 160
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71, y: 54}
+        - {x: -80, y: 45}
+        - {x: -80, y: -42}
+        - {x: -78, y: -54}
+        - {x: 80, y: -54}
+        - {x: 80, y: 50}
+        - {x: 65, y: 54}
+    - name: game-tiles-space@2x_171
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 291
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_172
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 292
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_173
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 292
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_174
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 293
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_175
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 294
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_176
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 294
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_177
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 295
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_178
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 251
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_179
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 224
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_180
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 237
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_181
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 238
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_182
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 240
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_183
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 242
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_184
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 243
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_185
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 245
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_186
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 246
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_187
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 247
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_188
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 248
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_189
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 250
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_190
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 231
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_191
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 219
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_192
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 231
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_193
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 232
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_194
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 234
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: game-tiles-space@2x_195
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 5
+        width: 119
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.5, y: 30}
+        - {x: 32.5, y: 21}
+        - {x: 23.5, y: 34}
+        - {x: 46.5, y: 34}
+        - {x: 52.5, y: 82}
+        - {x: 27.5, y: 88}
+        - {x: 22.5, y: 87}
+        - {x: 14.5, y: 88}
+        - {x: -4.5, y: 88}
+        - {x: -7.5, y: 85}
+        - {x: -7.5, y: 83}
+        - {x: -7.5, y: 85}
+        - {x: -8.5, y: 88}
+        - {x: -59.5, y: 88}
+        - {x: -59.5, y: -88}
+        - {x: 58.5, y: -88}
+        - {x: 59.5, y: -86}
+        - {x: 59.5, y: 29}
+        - {x: 58.5, y: 29}
+    - name: game-tiles-space@2x_196
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 5
+        width: 118
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59, y: 88}
+        - {x: -59, y: -88}
+        - {x: 37, y: -88}
+        - {x: 59, y: -53}
+        - {x: 59, y: 52}
+        - {x: 47, y: 88}
+    - name: game-tiles-space@2x_197
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 6
+        width: 118
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: -21}
+        - {x: 36, y: -22}
+        - {x: 35, y: -23}
+        - {x: 35, y: -29}
+        - {x: 39, y: -34}
+        - {x: 58, y: -34}
+        - {x: 59, y: -33}
+        - {x: 59, y: 11}
+        - {x: 51, y: 84}
+        - {x: -56, y: 84}
+        - {x: -59, y: 57}
+        - {x: -59, y: -59}
+        - {x: -32, y: -84}
+        - {x: 32, y: -84}
+        - {x: 34, y: -25}
+        - {x: 36, y: -21}
+    - name: game-tiles-space@2x_198
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 5
+        width: 164
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 82, y: -50}
+        - {x: 82, y: 5}
+        - {x: 71, y: 38}
+        - {x: 45, y: 53}
+        - {x: -48, y: 53}
+        - {x: -70, y: 22}
+        - {x: -82, y: -8}
+        - {x: -82, y: -53}
+        - {x: 55, y: -53}
+        - {x: 54, y: -45}
+        - {x: 48, y: -38}
+        - {x: 62, y: -51}
+    - name: game-tiles-space@2x_199
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1
+        width: 163
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: -52}
+        - {x: 76.5, y: -52}
+        - {x: 81.5, y: -35}
+        - {x: 81.5, y: 52}
+        - {x: -81.5, y: 52}
+        - {x: -81.5, y: -52}
+        - {x: 3.5, y: -52}
+        - {x: 5.5, y: -49}
+        - {x: 5.5, y: -47}
+        - {x: 5.5, y: -50}
+    - name: game-tiles-space@2x_200
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1
+        width: 163
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: -52}
+        - {x: 76.5, y: -52}
+        - {x: 81.5, y: -35}
+        - {x: 81.5, y: 52}
+        - {x: -81.5, y: 52}
+        - {x: -81.5, y: -52}
+        - {x: 3.5, y: -52}
+        - {x: 5.5, y: -49}
+        - {x: 5.5, y: -47}
+        - {x: 5.5, y: -50}
+    - name: game-tiles-space@2x_201
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 2
+        width: 141
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 103}
+        - {x: -54.5, y: 24}
+        - {x: -70.5, y: -22}
+        - {x: -70.5, y: -103}
+        - {x: 70.5, y: -103}
+        - {x: 70.5, y: -8}
+        - {x: 15.5, y: 103}
+    - name: game-tiles-space@2x_47
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 661
+        width: 115
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: -8.5}
+        - {x: -32.5, y: -15.5}
+        - {x: -32.5, y: -22.5}
+        - {x: -28.5, y: -26.5}
+        - {x: -6.5, y: -26.5}
+        - {x: -5.5, y: -25.5}
+        - {x: -5.5, y: -10.5}
+        - {x: -12.5, y: -8.5}
+      - - {x: 48.5, y: 6.5}
+        - {x: 24.5, y: 6.5}
+        - {x: 17.5, y: -4.5}
+        - {x: 17.5, y: -22.5}
+        - {x: 19.5, y: -22.5}
+        - {x: 23.5, y: -23.5}
+        - {x: 44.5, y: -23.5}
+        - {x: 52.5, y: -11.5}
+        - {x: 52.5, y: 3.5}
+      - - {x: -48.5, y: 17.5}
+        - {x: -56.5, y: 13.5}
+        - {x: -57.5, y: 9.5}
+        - {x: -57.5, y: -17.5}
+        - {x: -30.5, y: -17.5}
+        - {x: -30.5, y: 11.5}
+        - {x: -36.5, y: 15.5}
+        - {x: -41.5, y: 17.5}
+      - - {x: 20.5, y: 26.5}
+        - {x: -9.5, y: 26.5}
+        - {x: -15.5, y: 23.5}
+        - {x: -15.5, y: 6.5}
+        - {x: -7.5, y: -5.5}
+        - {x: 16.5, y: -5.5}
+        - {x: 23.5, y: 4.5}
+        - {x: 23.5, y: 23.5}
+      - - {x: 41.5, y: 19.5}
+        - {x: 39.5, y: 15.5}
+        - {x: 39.5, y: 9.5}
+        - {x: 45.5, y: 3.5}
+        - {x: 53.5, y: 3.5}
+        - {x: 56.5, y: 5.5}
+        - {x: 56.5, y: 13.5}
+        - {x: 50.5, y: 20.5}
+        - {x: 45.5, y: 21.5}
+      - - {x: -33.5, y: 26.5}
+        - {x: -33.5, y: 10.5}
+        - {x: -19.5, y: 10.5}
+        - {x: -16.5, y: 14.5}
+        - {x: -16.5, y: 26.5}
+      - - {x: 28.5, y: 26.5}
+        - {x: 23.5, y: 22.5}
+        - {x: 23.5, y: 16.5}
+        - {x: 25.5, y: 12.5}
+        - {x: 35.5, y: 12.5}
+        - {x: 39.5, y: 16.5}
+        - {x: 39.5, y: 22.5}
+        - {x: 37.5, y: 26.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
